@@ -1,4 +1,4 @@
 bioinformatics.ca-swc-r
 =======================
 
-Software Carpentry Bootcamp for bioinformatics.ca 2014-05-12
+This is the repository the instructors will develop as the boot camp unfolds, as if we were the model student.
